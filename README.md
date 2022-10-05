@@ -17,3 +17,4 @@
 * [elasticsearch](https://github.com/daidai21/elasticsearch) | [elasticsearch_demo](https://github.com/daidai21/elasticsearch_demo)
 * [dubbo](https://github.com/daidai21/dubbo) | [dubbo_demo](https://github.com/daidai21/dubbo_demo)
 * [hadoop](https://github.com/apache/hadoop), [spark](https://github.com/apache/spark), [flink](https://github.com/apache/flink) | [bigdata_demo](https://github.com/daidai21/bigdata_demo)
+* other: [Chrome-Plugin-Demo-ShowTime](https://github.com/daidai21/Chrome-Plugin-Demo-ShowTime)
