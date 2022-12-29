@@ -18,4 +18,5 @@
 * [dubbo](https://github.com/daidai21/dubbo) | [dubbo_demo](https://github.com/daidai21/dubbo_demo)
 * [hadoop](https://github.com/apache/hadoop), [spark](https://github.com/apache/spark), [flink](https://github.com/apache/flink) | [bigdata_demo](https://github.com/daidai21/bigdata_demo)
 * [distributed_demos](https://github.com/daidai21/distributed_demos)
+* [redis_demo](https://github.com/daidai21/redis_demo)
 * other: [Chrome-Plugin-Demo-ShowTime](https://github.com/daidai21/Chrome-Plugin-Demo-ShowTime)
